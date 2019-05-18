@@ -1,0 +1,4 @@
+I coded with Xcode on my macbook.
+I used most part of HW2 so I didn't change the file name.
+The fshader and vshader were modified.
+The input files and glsl files should be put into build->Debug.
